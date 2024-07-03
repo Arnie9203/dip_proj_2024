@@ -27,6 +27,8 @@ conda env create -f environment.yaml
 conda activate dip_proj
 ```
 
+第三部分的模型请到 http://instruct-pix2pix.eecs.berkeley.edu/instruct-pix2pix-00-22000.ckpt 下载，并放入checkpoints文件夹
+
 ## 界面启动
 
 ```sh
